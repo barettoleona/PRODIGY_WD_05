@@ -4,10 +4,10 @@ A responsive Weather Web Application built using HTML, CSS, and JavaScript that 
 # Features
 - Search weather by city name  
 - Displays:
-- Temperature
-- Weather condition
-- Humidity
-- Wind speed
+  - Temperature
+  - Weather condition
+  - Humidity
+  - Wind speed
 - Dynamic weather icons     
 - Responsive and modern UI
 
