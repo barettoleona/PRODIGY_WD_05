@@ -7,8 +7,8 @@ Displays:
 - Temperature
 - Weather condition
 - Humidity
-- Wind speed
-Dynamic weather icons 
+- Wind speed     
+Dynamic weather icons     
 Responsive and modern UI
 
 # Technologies Used
